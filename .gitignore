@@ -3,3 +3,12 @@ remove_file_names.txt
 remove_file_names_new.txt
 
 node_modules
+
+# Yarn v4
+.pnp.* 
+.yarn/* 
+!.yarn/patches 
+!.yarn/plugins 
+!.yarn/releases 
+!.yarn/sdks 
+!.yarn/versions
