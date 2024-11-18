@@ -1,0 +1,13 @@
+{
+  "name": "duplicate-file-extractor",
+  "version": "1.0.0",
+  "description": "Extract Duplicated Files of Storage Analyzer on Synology",
+  "author": "D0hwQ1",
+  "packageManager": "yarn@4.5.1",
+  "dependencies": {
+    "iconv-lite": "^0.6.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
